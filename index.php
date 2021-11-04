@@ -2,7 +2,7 @@
 	<section class="main">
 		<div class="wrapp">
 			<div class="mensaje">
-				<h1>BIENVENIDOS A LA MUEBLERIAS FURNITURE!!!!</h1>
+				<h1>BIENVENIDOS A MUEBLERIAS FURNITURE!!!!</h1>
 			</div>
 
 			<div class="articulo">
